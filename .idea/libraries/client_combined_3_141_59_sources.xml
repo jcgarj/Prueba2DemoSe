@@ -7,10 +7,17 @@
       <root url="jar://$PROJECT_DIR$/../../Selenium/Udemy/SeleniumJar/libs/guava-25.0-jre.jar!/" />
       <root url="jar://$PROJECT_DIR$/../../Selenium/Udemy/SeleniumJar/libs/okhttp-3.11.0.jar!/" />
       <root url="jar://$PROJECT_DIR$/../../Selenium/Udemy/SeleniumJar/libs/okio-1.14.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/testng-6.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Selenium/Udemy/commons-io-2.9.0/commons-io-2.9.0-tests.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Selenium/Udemy/commons-io-2.9.0/commons-io-2.9.0.jar!/" />
     </CLASSES>
-    <JAVADOC />
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../Selenium/Udemy/commons-io-2.9.0/commons-io-2.9.0-javadoc.jar!/" />
+    </JAVADOC>
     <SOURCES>
       <root url="jar://$PROJECT_DIR$/../../Selenium/Udemy/SeleniumJar/client-combined-3.141.59-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Selenium/Udemy/commons-io-2.9.0/commons-io-2.9.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Selenium/Udemy/commons-io-2.9.0/commons-io-2.9.0-test-sources.jar!/" />
     </SOURCES>
   </library>
 </component>
